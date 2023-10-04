@@ -1,0 +1,6 @@
+train: ../Road_DB/images/train
+val: ../Road_DB/images/val
+
+nc: 4
+
+names: ['crosswalk','speedlimit','trafficlight','stop']
